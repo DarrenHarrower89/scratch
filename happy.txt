@@ -3,5 +3,9 @@ Welcome to the session
 This message is from Pandey
 123456
 9876543210
+Branch-Conflict
+This message is from Jamie
+123
 This is a message from Darren
 This message is from Jamie
+master
